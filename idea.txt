@@ -1,0 +1,1 @@
+Use to download data: https://towardsdatascience.com/a-comprehensive-guide-to-downloading-stock-prices-in-python-2cd93ff821d4
