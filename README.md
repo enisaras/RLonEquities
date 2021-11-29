@@ -18,22 +18,22 @@ Pavankumar RamadassVenkatesulu
 - [ ] Final Presentation: 5%
 
 
-### Project Navigation:
+## Project Navigation:
 
-##### Implementation:
+#### Implementation:
 
 [Implementation](https://github.com/enisaras/RLonEquities/blob/main/project.ipynb)
 
 Python (simply the code):
 
-##### Research Paper(if needed):
+#### Research Paper(if needed):
 Latex Source: 
 
 PDF version: 
 
-##### Final Presentation:
+#### Final Presentation:
 Powerpoint: 
-#####  Ideas(delete before submission)
+####  Ideas(delete before submission)
 [idea.txt](https://github.com/enisaras/RLonEquities/blob/main/idea.txt)
 
 
