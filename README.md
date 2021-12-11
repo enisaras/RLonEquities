@@ -32,6 +32,10 @@ PDF version:
 #### Final Presentation:
 [Presentation](https://github.com/enisaras/RLonEquities/blob/main/ML%20and%20Finance%20Presentation.pptx)
 
+#### Datasets
+[Datasets](https://github.com/enisaras/RLonEquities/tree/main/data)
 
+#### Plots
+[Plots](https://github.com/enisaras/RLonEquities/tree/main/plots)
 
 
