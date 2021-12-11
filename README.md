@@ -27,7 +27,7 @@ Pavankumar RamadassVenkatesulu
 
 #### Final Report:
 
-PDF version: 
+PDF version: [PDF](https://github.com/enisaras/RLonEquities/blob/main/ML%20and%20Finance%20Report.pdf)
 
 #### Final Presentation:
 [Presentation](https://github.com/enisaras/RLonEquities/blob/main/ML%20and%20Finance%20Presentation.pptx)
